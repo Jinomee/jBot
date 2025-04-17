@@ -1,4 +1,4 @@
-# Discord AI 助手机器人
+# Discord AI 助手机器人 - jBot
 
 *[English](README.md) | 简体中文*
 
@@ -24,11 +24,24 @@
 
 1. 克隆此仓库：
    ```
-   git clone https://github.com/yourusername/discord-ai-assistant.git
-   cd discord-ai-assistant
+   git clone https://github.com/Jinomee/jBot.git
+   cd jBot
    ```
 
 2. 安装所需依赖：
+   ```
+   pip install -r requirements.txt
+   ```
+
+### 手动安装
+
+1. 从[发布页面](https://github.com/Jinomee/jBot/releases)下载最新版本。
+2. 将ZIP文件解压到您想要的位置。
+3. 打开终端或命令提示符并导航到解压目录：
+   ```
+   cd path/to/extracted/jBot
+   ```
+4. 安装所需依赖：
    ```
    pip install -r requirements.txt
    ```

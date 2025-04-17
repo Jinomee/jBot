@@ -1,4 +1,4 @@
-# Discord AI Assistant Bot
+# Discord AI Assistant Bot - jBot
 
 *English | [简体中文](README.zh-CN.md)*
 
@@ -24,11 +24,24 @@ A Discord bot that integrates with x.ai's API to provide an interactive AI assis
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/discord-ai-assistant.git
-   cd discord-ai-assistant
+   git clone https://github.com/Jinomee/jBot.git
+   cd jBot
    ```
 
 2. Install the required dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+
+### Manual Installation
+
+1. Download the latest release from the [Releases page](https://github.com/Jinomee/jBot/releases).
+2. Extract the ZIP file to your desired location.
+3. Open a terminal or command prompt and navigate to the extracted directory:
+   ```
+   cd path/to/extracted/jBot
+   ```
+4. Install the required dependencies:
    ```
    pip install -r requirements.txt
    ```
