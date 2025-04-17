@@ -1,4 +1,4 @@
-# Discord AI Assistant Bot
+# Discord AI Assistant jBot
 
 *English | [简体中文](README.zh-CN.md)*
 
