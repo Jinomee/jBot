@@ -24,8 +24,8 @@ A Discord bot that integrates with x.ai's API to provide an interactive AI assis
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/discord-ai-assistant.git
-   cd discord-ai-assistant
+   git clone https://github.com/Jinomee/jBot.git
+   cd jBot
    ```
 
 2. Install the required dependencies:
