@@ -1,4 +1,4 @@
-# Discord AI 助手机器人
+# jBot Discord AI 助手机器人
 
 *[English](README.md) | 简体中文*
 
@@ -24,8 +24,8 @@
 
 1. 克隆此仓库：
    ```
-   git clone https://github.com/yourusername/discord-ai-assistant.git
-   cd discord-ai-assistant
+   git clone https://github.com/Jinomee/jBot.git
+   cd jBot
    ```
 
 2. 安装所需依赖：
